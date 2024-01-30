@@ -20,7 +20,7 @@ def second_period():
 
 def third_period():
     global list
-    list = ["Nik","Carlos","Soren","Max","Sam","Quinn","Julian","Lucas","Joshua","Ethan","Drew","Austin","Anthony","Matthew","William","Nicholas","Torin","Jake","Aidan","Dash","Wyatt","Josiah","Riley","Francisco","Miles","Sal","Ryan","Ray","Kristoff"]
+    list = ["Nik","Soren","Max","Sam","Quinn","Julian","Lucas","Joshua","Ethan","Drew","Austin","Anthony","Matthew","William","Nicholas","Torin","Jake","Aidan","Dash","Wyatt","Josiah","Riley","Francisco","Miles","Sal","Ryan","Ray","Kristoff"]
     clase.config(text="Third Period")
 
 def fifth_period():
@@ -30,12 +30,12 @@ def fifth_period():
 
 def sixth_period():
     global list
-    list = ["Will","Josh","Sam","Cole","Max","Atlas","Zach","Maddy","Kaimo","Gavin","Nathaniel","Cyrus","Rowan H.","Anne Carter","Rowan J.","Kevin","Vian","Jonpaul","Judah","Julien","Matt","Ibrahim","Max","Tizoc","Jacques","Joshua","Truman","Lana","Miles","Ivy","Mac"]
+    list = ["Will","Josh","Cole","Zach","Maddy","Kaimo","Nathaniel","Cyrus","Rowan","Anne Carter","Jack","Vian","Jonpaul","Judah","Julien","Matt","Ibrahim","Tizoc","Jacques","Joshua","Lana","Miles","Leo"]
     clase.config(text="Sixth Period")
 
 def seventh_period():
     global list
-    list = ["Savannah","Marshall","Atlee","Aidan","William","Hannah","Alex","Leilany","Alfonso","Dylan","Will","Nathaniel"]
+    list = ["Savannah","Marshall","Atlee","Aidan","William","Hannah","Alex","Leilany","Alfonso","Dylan","Will Simek","Nathaniel"]
     clase.config(text="Seventh Period")
 
 
