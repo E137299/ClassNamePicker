@@ -10,27 +10,27 @@ list = []
 
 def first_period():
     global list, class_selected
-    list = ["Jane","Bennett","Hank","Huey","Donovan","Evan","Boone","Matt","Olivia","Cyrus","Xander","Charles","Nicholas","Joseph","Yuval","Theo","Priya"]
+    list = ["Miles Boebel","Luke Busse","Quetzali Rene","Nolan Fowler","Jonah Gysan","Oliver Hanshaw","Abhishek Haridass","Emme Lou Howard","Jose Jaramillo","Lin Khonthongdee","Eshan Lakshmanan-Gulley","AJ Landis","Mary Maebius","Clark McCraw","Henry Palmer","Bodhi Prater","Hutchins Reilly","Emmanuel Rivera","Emma Rock","Kenner Stahlman","Karlin Stansbury","Teika Thomas","Mason Washington Jr.","Vincent Wattenbarger"]
     clase.config(text="First Period")
 
 def second_period():
     global list
-    list = ["Seville","Abriel","Iggy","Lily","Nikolai","Sean","Henry","Landen","Jack","Everson","Elijah","Noam","Ian"]
+    list = ["Kennedy Aleshire","Elizabeth Avila Escobedo", "Delaney Bishop","Ava Borich","Clara Burns","Brianna Cortez","Wendel Dos Santos","Kole Esselstyn","Kirsten Hana", "Trey Hussey","Savannah Hynes","Ocean Jennison","Harper Kelly","Magnolia Kinard","Julien Lavoie","KD Manning","Wynn McConnell","Sophia Medina","Ryder Mejia","Maya Melendez","Gray Morey","Kelson Nichols","Lily Nixon","Marlon Perez-Velasquez","Dario Rangel","Maximiliano Reyes-Duran","Sebatian Sam","Lee Smith","Eline Van Der Steur"]
     clase.config(text="Second Period")
 
 def third_period():
     global list
-    list = ["Nik","Soren","Max","Sam","Quinn","Julian","Lucas","Joshua","Ethan","Drew","Austin","Anthony","Matthew","William","Nicholas","Torin","Jake","Aidan","Dash","Wyatt","Josiah","Riley","Francisco","Miles","Sal","Ryan","Ray","Kristoff"]
+    list = ["Leia Aguilar","Mackenzie Augspurger","Mason Begley","Carlos Benitez_Ruiz","Avery Billela","Tagore Bose","Catherine Breed","Indira Burden Guevara","Anontion Byrne","Giuliana Carpenter","Maya Castillo","Luys Castro","Zyon Chapman-Garcia","Nataneli Chavez","Jayla Diaz","Charley Emshwiller","Audrey Goodacre","CJ Hernandez","Albert Hernandez-Lopez","Olivia Hollander","Sadie Hurless","Landon Jones","Xander Lecompte","Isaiah Marmolejo","Matthew Martinez","Syriana Martinez","Jose Martinez Rangel","Davis Moon","Noah Ramirez","Jaelyn Rivera","Coryn Rodriguez", "Abraham Ruiz","Natalie Santa Ana"]
     clase.config(text="Third Period")
 
 def fifth_period():
     global list
-    list = ["Alex A.","Jacob B.","Mitchell","Dawson","Frank","Tate","Joseph","Jonathan","Andrew","Ben","Nash","Alex P.","Jacob P.","Aaron","Annika","Quinn","Ava","Victor","Fletcher","Miles"]
+    list = ["Seville Bohn","Kai Brooks","Dawson Dittmar","Iggy Gillion","Frank Hadlock","Tate Hentrich","Joseph Jeong","Maddy Kaven","Jonathan Lamping","Nikolai Lesak","Jack Padgett","Ben Palmer","Nash Parker","Alex Parsons","Jacob Patt","Aaron Sabisch","Quinn Skidmore","Noam Stewart"]
     clase.config(text="Fifth Period")
 
 def sixth_period():
     global list
-    list = ["Blake Bernstein","Owen Boshart","Elijah Debusk","Caleb Deleon","Owen Fannin","Jordan Freeman","Edgar Garcia-Fajardo","Weston Gardner","Owen Harper","John Hortman","Gavin Kirsch","Madeline Lafollette","Anderson Marin Garcia","Roman Mengarelli","Toby Moffitt","Henry Morris","Christian Morrison","Nathan Nada","Tristan Papworth","Huy Quach","Khang Quach","Danielle Ramirez","Fatima Reyes Duran","Roman Salaz"]
+    list = ["Blake Sophia Bernstein","Owen Boshart","Elijah Debusk","Caleb Deleon","Owen Fannin","Jordan Freeman","Edgar Garcia-Fajardo","Weston Gardner","Owen Harper","John Hortman","Gavin Kirsch","Madeline Lafollette","Anderson Marin Garcia","Roman Mengarelli","Toby Moffitt","Henry Morris","Luke Morrison","Nathan Nada","Tristan Papworth","Huy Quach","Khang Quach","Danielle Ramirez","Fatima Reyes Duran","Roman Salaz"]
     clase.config(text="Sixth Period")
 
 def seventh_period():
