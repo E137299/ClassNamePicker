@@ -30,12 +30,12 @@ def fifth_period():
 
 def sixth_period():
     global list
-    list = ["Will","Josh","Cole","Zach","Maddy","Kaimo","Nathaniel","Cyrus","Rowan","Anne Carter","Jack","Vian","Jonpaul","Judah","Julien","Matt","Ibrahim","Tizoc","Jacques","Joshua","Lana","Miles","Leo"]
+    list = ["Blake Bernstein","Owen Boshart","Elijah Debusk","Caleb Deleon","Owen Fannin","Jordan Freeman","Edgar Garcia-Fajardo","Weston Gardner","Owen Harper","John Hortman","Gavin Kirsch","Madeline Lafollette","Anderson Marin Garcia","Roman Mengarelli","Toby Moffitt","Henry Morris","Christian Morrison","Nathan Nada","Tristan Papworth","Huy Quach","Khang Quach","Danielle Ramirez","Fatima Reyes Duran","Roman Salaz"]
     clase.config(text="Sixth Period")
 
 def seventh_period():
     global list
-    list = ["Savannah","Marshall","Atlee","Aidan","William","Hannah","Alex","Leilany","Alfonso","Dylan","Will Simek","Nathaniel"]
+    list = ["Will Achtermann","Irmoon Batbayar","Soren Benson","Max Brandt","Luke Brittain","Zachary Ciomperlik","Nathaniel Haven","Torin Lanza","Judah Leon","Aidan Makarabooshanam","Kristoff Micske","Iqra Nadeem","Jacques Noguess","Joshua Ortiz","Wyatt Paul","Miles Puthoff","Riley Ricca","Sal Tangaroa"]
     clase.config(text="Seventh Period")
 
 
@@ -63,10 +63,10 @@ student.place(x=167,y=255)
 second = Button(root, text="1st Period", command = first_period)
 second.place(x=20,y=70,width=100, height=30)
 
-third = Button(root, text="2nd Period",command = second_period)
+third = Button(root, text="3rd Period",command = second_period)
 third.place(x=130,y=70,width=100,height=30)
 
-fourth = Button(root, text="3rd Period", command = third_period)
+fourth = Button(root, text="4th Period", command = third_period)
 fourth.place(x=240,y=70,width=100,height=30)
 
 fifth = Button(root, text="5th Period", command = fifth_period)
@@ -75,7 +75,7 @@ fifth.place(x=20,y=110,width=100, height=30)
 seventh = Button(root, text="6th Period", command = sixth_period)
 seventh.place(x=130,y=110,width=100, height=30)
 
-eigth = Button(root, text="7th Period", command = seventh_period)
+eigth = Button(root, text="8th Period", command = seventh_period)
 eigth.place(x=240,y=110,width=100, height=30)
 
 student_picker = Button(root, text="Randomly Select A Student", command = pick_student)
