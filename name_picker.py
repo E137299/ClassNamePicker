@@ -20,7 +20,7 @@ def second_period():
 
 def fourth_period():
     global list
-    list = ["Ian A.","Noah A.","Yousef A.","Linus B.","Bentley B.","Jack B.","Jack C.","Ryusuke C.","Azi C.","Daniel C.M.","Alonzo G.","Hazel G.","Max H.H.","Ayan K","Joshua K.","Easton L.","Penelope M.B.","Luca M.","Desmond M.","Ahmed M.","Seth M.","Travis N.","Dylan O.G.","George P.","Logan S.","Roman S.","Neil S.","Roman Z."]
+    list = ["Ian A.","Noah A.","Yousef A.","Linus B.","Bentley B.","Jack B.","Ryusuke C.","Azi C.","Daniel C.M.","Alonzo G.","Hazel G.","Max H.H.","Ayan K","Joshua K.","Easton L.","Penelope M.B.","Luca M.","Desmond M.","Ahmed M.","Seth M.","Travis N.","Dylan O.G.","George P.","Logan S.","Roman S.","Neil S.","Roman Z."]
     clase.config(text="Fourth Period")
 
 def fifth_period():
